@@ -8,7 +8,6 @@ This project visually demonstrates how different sorting algorithms work step by
 ## 🚀 Features
 - 🎨 Clean and interactive UI
 - 📊 Real-time visualization of sorting process
-- 🖱️ User can select array size and speed
 - 🔄 Multiple algorithms to choose from:
   - Bubble Sort
   - Selection Sort
